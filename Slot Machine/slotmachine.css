@@ -1,0 +1,42 @@
+body {
+    text-align: left;
+    background-color: #232323;
+    margin: 0;
+}
+
+ p, a {
+    color: steelblue;
+    font-weight: 12px;
+    text-align: center;
+}
+
+h1 {
+
+     font-size: 50px;
+     text-align: center;
+     font-weight: normal;
+     background: steelblue;
+     text-transform: uppercase;
+     color: white;
+     line-height: 1.1;
+
+}
+
+#machine {
+    text-align: center;
+}
+
+#spinButton{
+    color: steelblue;
+    background-color: : white;
+    text-transform: uppercase;
+    font-size: inherit;
+    font-weight: 700;
+    height: 100%;
+    border-color: none;
+}
+
+/*#spinButton:hover{
+    color: white;
+    background-color: steelblue;
+}*/
